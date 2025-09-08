@@ -1,0 +1,16 @@
+name,year,econ_x,hier_y,economic,class_inequality,racial_disparities,political_culture,cultural_identity,historical_continuity
+Mississippi Delta,1920,-4.5,5.5,5,5,5,5,5,5
+Mississippi Delta,1970,-4.2,5.2,5,5,5,4,5,5
+Mississippi Delta,2020,-4,5,5,5,5,4,5,5
+Atlanta,1920,0,3,3,4,5,3,3,4
+Atlanta,1970,1.5,3,2,3,4,2,3,4
+Atlanta,2020,2,3,2,3,4,2,3,4
+Austin,1920,1,-1,2,3,3,2,2,3
+Austin,1970,2.5,-1.5,2,2,2,2,2,2
+Austin,2020,4,-2,1,2,2,1,2,2
+Northern Virginia,1920,2,-2.5,2,2,3,2,2,3
+Northern Virginia,1970,3.5,-3,2,2,2,2,2,2
+Northern Virginia,2020,5,-3,1,1,1,1,2,2
+Charlotte,1920,0.5,2.5,3,4,4,3,3,3
+Charlotte,1970,2,2.5,2,3,3,3,3,3
+Charlotte,2020,3,2,2,3,3,3,3,3
