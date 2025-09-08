@@ -101,8 +101,11 @@ def normalize_headers(df):
 if uploaded is not None:
     df = pd.read_csv(uploaded)
 else:
-    from io import StringIO
-    df = pd.read_csv(StringIO(example_csv))
+    # Load your baked-in default file from the repo root
+    df = pd.read_csv("southern_default.csv")
+
+# Optional confirmation message
+st.caption(f"Using: {'uploaded file' if uploaded is not None else 'southern_default.csv'}")
 
 # apply header normalization
 df = normalize_headers(df)
